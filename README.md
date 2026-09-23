@@ -156,8 +156,8 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 
 <br><br>
 
-<a href="https://leetcode.com/u/24bcs10400/">
-  <img src="https://leetcard.jacoblin.cool/24bcs10400?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode submission heatmap" width="100%" />
+<a href="https://leetcode.com/u/Tanay_Shrimal/">
+  <img src="https://leetcard.jacoblin.cool/Tanay_Shrimal?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode submission heatmap" width="100%" />
 </a>
 
 </div>
