@@ -39,24 +39,17 @@
 
 ## Currently Sharpening
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-- Data Structures & Algorithms — C++
-- Full Stack Development
-- Java
+<img src="https://img.shields.io/badge/DSA%20—%20C%2B%2B-302b63?style=for-the-badge&logo=cplusplus&logoColor=A390F0" alt="DSA in C++" />
+<img src="https://img.shields.io/badge/Full%20Stack-302b63?style=for-the-badge&logo=react&logoColor=A390F0" alt="Full Stack" />
+<img src="https://img.shields.io/badge/Java-302b63?style=for-the-badge&logo=openjdk&logoColor=A390F0" alt="Java" />
+<br>
+<img src="https://img.shields.io/badge/System%20Design-302b63?style=for-the-badge&logoColor=A390F0" alt="System Design" />
+<img src="https://img.shields.io/badge/AI%20Engineering-302b63?style=for-the-badge&logo=openai&logoColor=A390F0" alt="AI Engineering" />
+<img src="https://img.shields.io/badge/Applied%20Product%20Building-302b63?style=for-the-badge&logoColor=A390F0" alt="Applied Product Building" />
 
-</td>
-<td valign="top" width="50%">
-
-- System Design
-- AI Engineering
-- Applied product building
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
@@ -64,7 +57,21 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,nodejs,react,mongodb,git&theme=dark" alt="tech stack icons" />
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="languages" />
+
+<br><br>
+
+**Web & Frameworks**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react&theme=dark" alt="web and frameworks" />
+
+<br><br>
+
+**Databases & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,git,github&theme=dark" alt="databases and tools" />
 
 </div>
 
@@ -104,6 +111,12 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 </tr>
 </table>
 
+<div align="center">
+
+[![View Repos](https://img.shields.io/badge/View%20All%20Repos-302b63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanayshrimal?tab=repositories)
+
+</div>
+
 <br>
 
 ## GitHub Analytics
@@ -113,41 +126,39 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 <img src="https://github-readme-stats.vercel.app/api?username=tanayshrimal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshrimal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
+</div>
+
+<br>
+
+## Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanayshrimal&theme=tokyonight&no-frame=true&row=1&margin-w=8&column=7" alt="GitHub trophies" width="95%" />
+
+</div>
+
+<br>
+
+## Coding Activity
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanayshrimal&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanayshrimal&theme=tokyo-night&hide_border=true&area=true" alt="commit activity graph" width="90%" />
-
-</div>
-
-<br>
-
-## LeetCode Progress
-
-<div align="center">
-
-<a href="https://leetcode.com/u/24bcs10400/">
-  <img src="https://leetcard.jacoblin.cool/24bcs10400?theme=dark&font=JetBrains%20Mono" alt="LeetCode stats" />
-</a>
-
 <br><br>
-
-<a href="https://leetcode.com/u/24bcs10400/">
-  <img src="https://leetcard.jacoblin.cool/24bcs10400?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode submission heatmap" />
-</a>
-
-</div>
-
-<br>
-
-## Contribution Activity
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanayshrimal/tanayshrimal/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanayshrimal/tanayshrimal/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tanayshrimal/tanayshrimal/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
+
+<br><br>
+
+<a href="https://leetcode.com/u/24bcs10400/">
+  <img src="https://leetcard.jacoblin.cool/24bcs10400?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode submission heatmap" width="100%" />
+</a>
 
 </div>
 
@@ -206,7 +217,7 @@ jobs:
 
 Open to internships, SDE roles, and interesting collaborations.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-shrimal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanay-shrimal)
 [![Gmail](https://img.shields.io/badge/tanayshrimal09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanayshrimal09@gmail.com)
 
 </div>
