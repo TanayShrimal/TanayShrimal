@@ -123,8 +123,8 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanayshrimal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanayshrimal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+<img src="https://github-readme-stats-63o16x5b6-tanayshrimal.vercel.app/api?username=tanayshrimal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats-63o16x5b6-tanayshrimal.vercel.app/api/top-langs/?username=tanayshrimal&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
 
 </div>
 
@@ -134,8 +134,7 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanayshrimal&theme=tokyonight&no-frame=true&row=1&margin-w=8&column=7" alt="GitHub trophies" width="95%" />
-
+<img src="https://github-profile-trophy-tanayshrimal.vercel.app/?username=tanayshrimal&theme=tokyonight&no-frame=true&row=1&margin-w=8&column=7" alt="GitHub trophies" width="95%" />
 </div>
 
 <br>
