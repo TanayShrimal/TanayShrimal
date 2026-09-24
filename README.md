@@ -161,52 +161,6 @@ A system that generates blockchain-anchored "Provenance Cards" for AI training d
 
 </div>
 
-<details>
-<summary><strong>How to activate the snake animation (one-time setup)</strong></summary>
-
-<br>
-
-The snake above animates your real GitHub contribution graph, but it needs a GitHub Action running in **this same profile repo** to generate it. Two steps:
-
-1. Create `.github/workflows/snake.yml` in this repository with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch: {}
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: tanayshrimal
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Push it, run the workflow once manually from the **Actions** tab, and the snake image links above will start rendering automatically (and refresh daily).
-
-</details>
 
 <br>
 
